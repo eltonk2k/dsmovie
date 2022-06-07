@@ -1,4 +1,4 @@
 
 
-## Link do APP desenvolvido no treinamento
+## Link do APP desenvolvido
 https://dsmovie-sds.netlify.app/
