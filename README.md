@@ -23,3 +23,5 @@ https://www.figma.com/file/7mxk7IJ8Uxv3VmUonXpfj1/projeto-avan%C3%A7ado-I?node-i
   - useNavigate
 - Parâmetros de rota
 - Integração front end back end
+### Back-End
+- Heroku: https://dsmovie-sds.herokuapp.com/
