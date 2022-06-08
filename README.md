@@ -17,5 +17,9 @@ https://www.figma.com/file/7mxk7IJ8Uxv3VmUonXpfj1/projeto-avan%C3%A7ado-I?node-i
 - Props
 - Requisições com Axios
 - React Hooks
+  - useState
+  - useEffect
+  - useParams
+  - useNavigate
 - Parâmetros de rota
 - Integração front end back end
